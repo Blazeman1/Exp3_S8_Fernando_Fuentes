@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ffuen/Desktop/Exp3_S8_Fernando_Fuentes/src/dao/DatabaseConnection.java</file>
+            <file>file:/C:/Users/ffuen/Desktop/Exp3_S8_Fernando_Fuentes/src/view/MainFrame.java</file>
+            <file>file:/C:/Users/ffuen/Desktop/Exp3_S8_Fernando_Fuentes/src/controller/MainController.java</file>
+            <file>file:/C:/Users/ffuen/Desktop/Exp3_S8_Fernando_Fuentes/src/dao/IPeliculaDAO.java</file>
+            <file>file:/C:/Users/ffuen/Desktop/Exp3_S8_Fernando_Fuentes/src/dao/PeliculaDAO.java</file>
+            <file>file:/C:/Users/ffuen/Desktop/Exp3_S8_Fernando_Fuentes/src/service/PeliculaService.java</file>
+            <file>file:/C:/Users/ffuen/Desktop/Exp3_S8_Fernando_Fuentes/src/model/Pelicula.java</file>
+            <file>file:/C:/Users/ffuen/Desktop/Exp3_S8_Fernando_Fuentes/src/view/ListarPeliculaPanel.java</file>
+            <file>file:/C:/Users/ffuen/Desktop/Exp3_S8_Fernando_Fuentes/src/app/GestionCinesMagenta.java</file>
+        </group>
+    </open-files>
+</project-private>

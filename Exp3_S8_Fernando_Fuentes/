@@ -1,0 +1,22 @@
+[33mcommit 67be745d5a01b2802c0e850fb229e34768dec334[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/documentacion[m[33m, [m[1;31morigin/feature/documentacion[m[33m, [m[1;32mmaster[m[33m)[m
+Author: FernandoFuentes <ffuentesall@gmail.com>
+Date:   Sun Sep 21 01:13:03 2025 -0300
+
+    Se agregan comentarios de clases
+
+[33mcommit b8626f24472d27b33a084328dc7afb79fa643719[m
+Author: Karla Santibáñez <kabesg01@gmail.com>
+Date:   Fri Sep 19 20:24:50 2025 -0300
+
+    Agregar implementación inicial de la gestión de películas en la aplicación GestionCinesMagenta
+    Funcionalidad para agregar peliculas y formulario base
+
+[33mcommit f42a072283263d5cfeecdd5ae7453ac22033078b[m
+Author: Karla Santibáñez <kabesg01@gmail.com>
+Date:   Fri Sep 19 20:24:18 2025 -0300
+
+    Add NetBeans project configuration files for GestionCinesMagenta
+    
+    - Created genfiles.properties to track changes in generated files.
+    - Added project.properties to define build settings, classpaths, and source directories.
+    - Introduced project.xml to specify project metadata and source/test roots.
